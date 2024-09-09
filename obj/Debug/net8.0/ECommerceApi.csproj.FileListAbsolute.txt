@@ -1,0 +1,148 @@
+C:\Users\SrikanthTippasani\ECommerceApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SrikanthTippasani\ECommerceApi\bin\Debug\net8.0\appsettings.json
+C:\Users\SrikanthTippasani\ECommerceApi\bin\Debug\net8.0\ECommerceApi.exe
+C:\Users\SrikanthTippasani\ECommerceApi\bin\Debug\net8.0\ECommerceApi.deps.json
+C:\Users\SrikanthTippasani\ECommerceApi\bin\Debug\net8.0\ECommerceApi.runtimeconfig.json
+C:\Users\SrikanthTippasani\ECommerceApi\bin\Debug\net8.0\ECommerceApi.dll
+C:\Users\SrikanthTippasani\ECommerceApi\bin\Debug\net8.0\ECommerceApi.pdb
+C:\Users\SrikanthTippasani\ECommerceApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SrikanthTippasani\ECommerceApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SrikanthTippasani\ECommerceApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SrikanthTippasani\ECommerceApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\ECommerceApi.csproj.AssemblyReference.cache
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\ECommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\ECommerceApi.AssemblyInfoInputs.cache
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\ECommerceApi.AssemblyInfo.cs
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\ECommerceApi.csproj.CoreCompileInputs.cache
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\ECommerceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\ECommerceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.ECommerceApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ECommerceApi.props
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ECommerceApi.props
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ECommerceApi.props
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\scopedcss\bundle\ECommerceApi.styles.css
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\ECommerc.880F12AD.Up2Date
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\ECommerceApi.dll
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\refint\ECommerceApi.dll
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\ECommerceApi.pdb
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\ECommerceApi.genruntimeconfig.cache
+C:\Users\SrikanthTippasani\ECommerceApi\obj\Debug\net8.0\ref\ECommerceApi.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\appsettings.json
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\ECommerceApi.exe
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\ECommerceApi.deps.json
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\ECommerceApi.runtimeconfig.json
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\ECommerceApi.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\ECommerceApi.pdb
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.csproj.AssemblyReference.cache
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.AssemblyInfoInputs.cache
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.AssemblyInfo.cs
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.csproj.CoreCompileInputs.cache
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.ECommerceApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ECommerceApi.props
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ECommerceApi.props
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ECommerceApi.props
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\scopedcss\bundle\ECommerceApi.styles.css
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerc.880F12AD.Up2Date
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\refint\ECommerceApi.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.pdb
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.genruntimeconfig.cache
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ref\ECommerceApi.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\appsettings.json
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\ECommerceApi.exe
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\ECommerceApi.deps.json
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\ECommerceApi.runtimeconfig.json
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\ECommerceApi.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\ECommerceApi.pdb
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.csproj.AssemblyReference.cache
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.AssemblyInfoInputs.cache
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.AssemblyInfo.cs
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.csproj.CoreCompileInputs.cache
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.ECommerceApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ECommerceApi.props
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ECommerceApi.props
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ECommerceApi.props
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\scopedcss\bundle\ECommerceApi.styles.css
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerc.880F12AD.Up2Date
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\refint\ECommerceApi.dll
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.pdb
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.genruntimeconfig.cache
+C:\Users\HarshithaTalamala\Downloads\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ref\ECommerceApi.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\appsettings.json
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\ECommerceApi.exe
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\ECommerceApi.deps.json
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\ECommerceApi.runtimeconfig.json
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\ECommerceApi.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\ECommerceApi.pdb
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.csproj.AssemblyReference.cache
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.AssemblyInfoInputs.cache
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.AssemblyInfo.cs
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.csproj.CoreCompileInputs.cache
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.ECommerceApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ECommerceApi.props
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ECommerceApi.props
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ECommerceApi.props
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\scopedcss\bundle\ECommerceApi.styles.css
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerc.880F12AD.Up2Date
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\refint\ECommerceApi.dll
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.pdb
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ECommerceApi.genruntimeconfig.cache
+C:\Users\SrikanthTippasani\Downloads\ECommerceApi 9\ECommerceApi 8\ECommerceApi 7\ECommerceApi\obj\Debug\net8.0\ref\ECommerceApi.dll
